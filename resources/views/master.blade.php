@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    {{-- using localhost path due to hot reload, will have more elegant solution in Laravel 5.4 --}}
     <link rel="stylesheet" href="http://localhost:8080/css/app.css">
     
     <title></title>

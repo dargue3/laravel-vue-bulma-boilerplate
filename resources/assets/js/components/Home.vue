@@ -82,10 +82,6 @@ export default  {
 <style lang="sass">
 @import '~_variables'
 
-#app
-  height: 100%
-  width: 100%
-
 .hero-body .link
   font-weight: 500
   &.laravel
