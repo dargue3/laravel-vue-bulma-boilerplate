@@ -1,31 +1,29 @@
 <template>
-    <router-view></router-view>
+  <router-view></router-view>
 </template>
 
 <script>
 
 export default  {
-    
-name: 'App',
+  
+  name: 'App',
 
-props: [],
-
-data()
-{
+  data()
+  {
     return {
 
     }
-},
+  },
 
-methods:
-{
+  methods:
+  {
     
-},
+  },
 };
 
 </script>
 
 <style lang="sass">
-@import '~sass_vars'
+@import '~_variables'
 
 </style>

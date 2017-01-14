@@ -1,3 +1,7 @@
+/**
+ * The SPA's routes file
+ */
+
 import Router from 'vue-router'
 import Home from './components/Home'
 
@@ -9,5 +13,5 @@ let routes = [
 ];
 
 export default new Router({
-	routes,
+	routes: routes,
 });

@@ -2,7 +2,7 @@ var path = require('path');
 var webpack = require('webpack');
 var Mix = require('laravel-mix').config;
 var plugins = require('laravel-mix').plugins;
-var sass_vars = path.resolve(__dirname, './resources/assets/sass/_variables.sass')
+var _variables = path.resolve(__dirname, './resources/assets/sass/_variables.sass')
 
 
 /*
@@ -162,7 +162,7 @@ module.exports.resolve = {
 
     alias: {
         'vue$': 'vue/dist/vue.common.js',
-        sass_vars,
+        _variables,
     }
 };
 
