@@ -6,8 +6,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <link rel="stylesheet" href="http://localhost:8080/css/app.css">
-
-        <title>Me & Ollie's</title>
+        
+        <title></title>
 
     </head>
     <body>
