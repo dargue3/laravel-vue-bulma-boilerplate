@@ -1,4 +1,9 @@
 {
-  "app.css": "/css/app.css",
+  "/fonts/fontawesome-webfont.eot": "/fonts/fontawesome-webfont.eot?674f50d287a8c48dc19ba404d20fe713",
+  "/fonts/fontawesome-webfont.svg": "/fonts/fontawesome-webfont.svg?912ec66d7572ff821749319396470bde",
+  "/fonts/fontawesome-webfont.ttf": "/fonts/fontawesome-webfont.ttf?b06871f281fee6b241d60582ae9369b9",
+  "/fonts/fontawesome-webfont.woff": "/fonts/fontawesome-webfont.woff?fee66e712a8a08eef5805a46892932ad",
+  "/fonts/fontawesome-webfont.woff2": "/fonts/fontawesome-webfont.woff2?af7ae505a9eed503f8b8e6982036873e",
+  "app.css": "/css/bulma.css",
   "app.js": "/js/app.js"
 }
