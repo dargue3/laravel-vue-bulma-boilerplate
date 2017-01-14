@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development webpack-dev-server --inline --hot",
+    "production": "cross-env NODE_ENV=production webpack --progress --hide-modules"
+  },
+  "devDependencies": {
+    "axios": "^0.15.3",
+    "bulma": "^0.3.0",
+    "laravel-mix": "^0.4.0",
+    "vue": "^2.0.1",
+    "vue-router": "^2.1.1",
+    "webpack": "^2.2.0-rc.3"
+  }
+}
